@@ -40,8 +40,6 @@ It includes tasks for sensor interfacing, data mapping, threshold-based alarms, 
 
 - Adds an **audible buzzer** that triggers **only when the water level exceeds 95%**.  
 - Enhances real-time alerting for overflow conditions.  
-- The LED also turns ON to indicate high water levels.
-
 ---
 
 ## 🧠 Summary
@@ -71,7 +69,7 @@ It includes tasks for sensor interfacing, data mapping, threshold-based alarms, 
 ---
 
 ### 👨‍💻 Author
-**Suddip Paul**  
+**Suddip Paul Arnab**  
 *Department of Computer Science & Engineering*  
 *East West University*
 
